@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Quantitative Research",
+    "description": "Our financial market research relies on robust statistical models and data analysis.",
+    "image": {
+      "url": "images/features/feature_algo.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Software Development",
+    "description": "Our AI product is built to prioritize customer needs and experiences.",
+    "image": {
+      "url": "images/features/feature_software.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
